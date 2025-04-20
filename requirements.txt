@@ -1,0 +1,11 @@
+beautifulsoup4
+requests
+pandas
+numpy
+scikit-learn
+streamlit
+gradio
+faiss-cpu
+transformers
+sentence-transformers
+torch
