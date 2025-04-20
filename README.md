@@ -1,5 +1,5 @@
 # Clone the repo
-git clone https://github.com/your-username/zomato-genai-assignment.git
+git clone https://github.com/pseudo-sam/zomato-genai-assignment.git
 cd zomato-genai-assignment
 
 # Create and activate virtual environment
